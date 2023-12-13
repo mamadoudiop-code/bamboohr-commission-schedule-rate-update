@@ -23,7 +23,7 @@ Before running the script, ensure you have the following prerequisites in place:
 
 ## Docker Install
 **Clone Repository**
-1. `git clone https://git.shipenergy.com/etg-integrations/commission/commission-schedule-rate-update.git`
+1. `git clone https://github.com/mamadoudiop-code/bamboohr-commission-schedule-rate-update.git`
 
 **Moved into commission-schedule-rate-update.git DIR**
 
